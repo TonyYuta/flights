@@ -21,9 +21,11 @@ package com.cheapair.sqa.tests;
  *
  */
 public class HomePageTest {
-  @Test
-  public void test1(){
-    System.out.println("It Works! :P");
-  }
-
+  
+  @Test(enabled = true, groups="hotels")
+	public void clickHotelsBtnTest() {
+		
+		 System.out.println("It Works! :P");
+	}
+	
 }
