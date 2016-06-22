@@ -62,7 +62,7 @@
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
 					<suiteXmlFiles>
-						<suiteXmlFile>testng.xml</suiteXmlFile>
+						<suiteXmlFile>src/testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 				<executions>
