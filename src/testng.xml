@@ -6,6 +6,7 @@
     <classes>
       <class name="com.cheapair.sqa.tests.HomePageTest"/>
       <class name="com.cheapair.sqa.tests.HotelsPageTest"/>
+      <class name="src.test.java.com.cheapair.sqa.tests.HotelsPageTest"/>
 <!--      <class name="com.cheapair.sqa.tests.JoinTestPOM"/>-->
 <!--       <class name="com.cheapair.sqa.JoinTest"/> -->
     </classes>
